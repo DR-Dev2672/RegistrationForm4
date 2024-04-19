@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(26, 26, 69);
+    color: white;
+    
+}
+header{
+    text-align: center;
+    font-style: normal;
+    font-size: large;
+    margin: 25px;
+}
+
+.separation
+{
+    height: 2px;
+    background-color: rgb(26, 26, 69);
+    border-color: rgb(26, 26, 69);
+    width:50vw;
+}
+.mr{
+    margin: 10px 0px;
+    width:30vw;
+    background-color: rgb(9, 9, 18);
+    
+}
+.main{
+    display: grid;
+  place-items: center;
+  /* background-color: greenyellow; */
+  
+
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .div{ */
+
+    /* background-color:red ; */
+/* } */
